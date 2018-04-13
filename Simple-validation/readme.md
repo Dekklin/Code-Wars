@@ -1,0 +1,1 @@
+Create a regex tester that returns false if a string (username) contains anything besides lowercase letters, numbers, and dashes.
