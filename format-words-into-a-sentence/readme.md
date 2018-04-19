@@ -1,0 +1,3 @@
+https://www.codewars.com/kata/format-words-into-a-sentence
+
+Problem Domain - Create a method takes in an array of strings and returns a single formatted string with commas between each word, and an and sign between the second to last word and the last one with no ,. Empty string values should be ignored. Empty arrays or null/nil values being passed into the method should result in an empty string being returned.
